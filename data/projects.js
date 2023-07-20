@@ -1,49 +1,67 @@
 export const projects = [
-{
-    title: "Primer proyecto",
-    description: "Esta es la descripción de mi primer proyecto",
+  {
+    title: "Cat Photo App",
+    description:
+      "Learn HTML by Building a Learn HTML by Building a Cat Photo App",
+    image: "http://127.0.0.1:5500/MyFreeCodeCamp/Cat_Photo_App/index.html",
+    tech: ["HTML5"],
+    github:
+      "https://github.com/McWolvie/MyFreeCodeCamp/tree/main/Cat_Photo_App",
+    link: "www.Planet-Geeck.com",
+  },
+  {
+    title: "Cafe Menu",
+    description: "Learn Basic CSS by Building a Cafe Menu",
+    image: "http://127.0.0.1:5500/MyFreeCodeCamp/Camper_Coffe/index.html",
+    tech: ["HTML5", "CSS3"],
+    github: "https://github.com/McWolvie/MyFreeCodeCamp/tree/main/Camper_Coffe",
+    link: "www.Planet-Geeck.com",
+  },
+  {
+    title: "Colored Markers",
+    description: "Learn CSS Colors by Building a Set of Colored Markers",
+    image: "http://127.0.0.1:5500/MyFreeCodeCamp/Color_Markers/index.html",
+    tech: ["HTML5", "CSS3"],
+    github:
+      "https://github.com/McWolvie/MyFreeCodeCamp/tree/main/Color_Markers",
+    link: "www.Planet-Geeck.com",
+  },
+  {
+    title: "Registration Form",
+    description: "Learn HTML Forms by Building a Registration Form",
+    image: "http://127.0.0.1:5500/MyFreeCodeCamp/Registration_Form/index.html",
+    tech: ["HTML5", "CSS3"],
+    github:
+      "https://github.com/McWolvie/MyFreeCodeCamp/tree/main/Registration_Form",
+    link: "www.Planet-Geeck.com",
+  },
+  {
+    title: "Replica Sleep Token",
+    description: "Ejercicio Replica Sleep Token",
     image:
-    "https://images.unsplash.com/photo-1579389083078-4e7018379f7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-    tech: ["React", "HTML5", "CSS3", "JavaScript"],
-    github: "https://github.com/McWolvie/proyecto1",
-    link: "www.proyecto1.com",
-},
-{
-    title: "Segundo proyecto",
-    description: "Esta es la descripción de mi segundo proyecto",
-    image: 
-    "https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fHByb3llY3RzfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
-    tech: ["React", "HTML5", "CSS3", "JavaScript"],
-    github: "https://github.com/McWolvie/proyecto2",
-    link: "www.proyecto1.com",
-
-},
-{
-    title: "Tercer proyecto",
-    description: "Esta es la descripción de mi tercer proyecto",
+      "http://127.0.0.1:5500/Web_Developer_Junior/Sleep_Token_Replicate/index.html#null",
+    tech: ["HTML5", "CSS3", "JavaScript"],
+    github:
+      "https://github.com/McWolvie/Web_Developer_Junior/tree/main/Sleep_Token_Replicate",
+    link: "www.Planet-Geeck.com",
+  },
+  {
+    title: "Color Flipper",
+    description: "Ejercicio Project Color Flipper",
     image:
-    "https://images.unsplash.com/photo-1598970434795-0c54fe7c0648?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMwfHxwcm95ZWN0c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
-    tech: ["React", "HTML5", "CSS3", "JavaScript"],
-    github: "https://github.com/McWolvie/proyecto3",
-    link: "www.proyecto1.com",
-},
-{
-    title: "Cuarto proyecto",
-    description: "Esta es la dirección de mi cuarto proyecto",
+      "https://project-color-flipper.vercel.app/?vercelToolbarCode=JoJddNoYFPqdTyr",
+    tech: ["HTML5", "CSS3", "JavaScript"],
+    github:
+      "https://github.com/McWolvie/Project-Color-Flipper/commit/8bfbef5161d5d1147fcc0a92593fc6549891de5c",
+    link: "www.Planet-Geeck.com",
+  },
+  {
+    title: "Project-Game-Vite",
+    description: "Ejercicio Project-Game-Vite",
     image:
-    "https://images.unsplash.com/photo-1571842068593-80ead1c01d27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjA4fHxwcm95ZWN0c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
-    tech: ["React", "HTML5", "CSS3", "JavaScript"],
-    github: "https://github.com/McWolvie/proyecto4",
-    link: "www.proyecto1.com",
-
-},
-{
-    title: "Quinto proyecto",
-    description: "Esta es la dirección de mi quinto proycto",
-    image:
-    "https://images.unsplash.com/photo-1636138389505-cbe6304db246?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDEyfHxwcm95ZWN0c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
-    tech: ["React", "HTML5", "CSS3", "JavaScript"],
-    github: "https://github.com/McWolvie/proyecto5",
-    link: "www.proyecto1.com",
-},
+      "https://project-game-vite.vercel.app/?vercelToolbarCode=rei0ke0swyQmVLJ",
+    tech: ["HTML5", "CSS3", "JavaScript"],
+    github: "https://github.com/McWolvie/Project-Game-Vite",
+    link: "www.Planet-Geeck.com",
+  },
 ];

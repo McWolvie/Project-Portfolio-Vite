@@ -1,4 +1,4 @@
 export const linkPage = (id, page) => {
     const link = document.querySelector(id);
-    link.addEventListener("clic", () => page());
+    link.addEventListener("click", () => page());
 };

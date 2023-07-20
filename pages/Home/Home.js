@@ -7,7 +7,7 @@ export const Home = () => {
 <section class="home">
 <p>Hello there, I´m</p>
 <h1>Óscar C.R ‹MCWolvie›</h1>
-<p>I'm a software engineer based in Toronto, Canada and also a communication and journalism student. I enjoy creating things that
-<a href="mailto:peterparker@gmail.com">Say hi →</a>
+<p>I'm a Web Developer Jr based in Arenas de San Pedro, Avila and also a communication and journalism student. I enjoy creating things that
+<a href="mailto:McWolvie@gmail.com">Say hi →</a>
 </section>`;
 };

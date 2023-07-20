@@ -6,6 +6,7 @@ export const changeTheme = () => {
     changeText();
   });
 };
+
 export const changeText = () => {
   const themeBtn = document.querySelector("#themeBtn");
   if (themeBtn.innerText === "🌞") {
@@ -14,6 +15,7 @@ export const changeText = () => {
     themeBtn.innerText = "🌞";
   }
 };
+
 export const Navbar = () => `
 <nav>
 <h2>Oscar C.R ‹McWolvie›</h2>

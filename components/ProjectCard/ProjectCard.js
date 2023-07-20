@@ -1,5 +1,4 @@
 import "./ProjectCard.css";
-
 export const ProjectCard = (project) => `
 <div class="project-card">
 <img src=${project.image} alt=${project.title}/>
@@ -14,7 +13,6 @@ export const ProjectCard = (project) => `
 </a>
 </div>
 </div>
-
 <div class="detail">
 <p>${project.description}</p>
 <p class="tech">${project.tech.join(" - ")}</p>
